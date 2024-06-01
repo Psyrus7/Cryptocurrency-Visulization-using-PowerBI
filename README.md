@@ -1,4 +1,4 @@
-# VOIS_March
+# Cryptocurrency dynamic control model using power BI
 In this project we have a dataset that contains some columns with some data representation. 
 With the help of this data, we developed the dynamic control model using power BI and 
 give the analysis visual report to the end user.
